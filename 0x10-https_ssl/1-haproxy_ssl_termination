@@ -47,5 +47,5 @@ frontend webjnlucmuse-tech-frontend-https
 
 backend webjnlucmuse.tech-backend
         balance roundrobin
-        server 484993-web-01 54.236.46.92:80 check
-        server 484993-web-02 54.160.85.222:80 check
+        server 316310-web-01 100.25.47.150 check
+        server 316310-web-02 35.175.126.61::80 check
